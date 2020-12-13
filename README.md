@@ -2,9 +2,9 @@
  Remote Rhapsody Team 37 Audio Demo
 
 
- - [Click here to visit the deployed live demo](https://rr.melde.net/)
+ - [visit the live demo website](https://rr.melde.net/)
 
- - [Click here to view a video of this demo in action](https://youtu.be/j_n0egM2tq4)
+ - [view a video of the demo on Youtube](https://youtu.be/j_n0egM2tq4)
 
 ![Screenshot of the live demo](.git-documentation/screenshot.jpg)
 
